@@ -1,0 +1,7 @@
+# Ignoring lock files because this is a boilerplate repo.
+package-lock.json
+yarn.lock 
+
+# The rest.
+node_modules
+dist
